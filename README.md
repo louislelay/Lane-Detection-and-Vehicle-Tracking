@@ -119,6 +119,5 @@ The `zone` function then rotates the image, ensuring the region of interest is s
 
 Finally, the region of interest is analyzed. This involves counting the number of pixels corresponding to vehicles passing through this region. The vehicle count is determined based on this pixel count. Here, we faced challenges, particularly when motorcycles were close together. The analysis involved ensuring that the vehicle count was accurate and did not overestimate due to motorcycles being close together.
 
-![Fig. 3.4: Analysis of region of interest](images/region_of_interest_analysis.png)
-![Fig. 3.5: Region of interest with multiple motorcycles](images/multiple_motorcycles.png)
+![Fig. 3.4: Frame during counting](images/frame_counting.png)
 
