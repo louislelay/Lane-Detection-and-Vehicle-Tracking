@@ -1,8 +1,10 @@
 # Image Processing: Lane Detection and Vehicle Tracking
 
-## ROB4 - Polytech Sorbonne
-### 2023–2024
-### TEIXEIRA Pierre | LE LAY Louis
+ROB4 - Polytech Sorbonne
+
+2023–2024
+
+TEIXEIRA Pierre | LE LAY Louis
 
 ## TABLE OF CONTENTS
 
