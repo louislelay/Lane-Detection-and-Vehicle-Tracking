@@ -1,10 +1,10 @@
-# Lane-Detection-and-Vehicle-Tracking
-```markdown
 # Image Processing: Lane Detection and Vehicle Tracking
 
-## ROB4 - Polytech Sorbonne
-### 2023–2024
-### TEIXEIRA Pierre | LE LAY Louis
+ROB4 - Polytech Sorbonne
+
+2023–2024
+
+TEIXEIRA Pierre | LE LAY Louis
 
 ## TABLE OF CONTENTS
 
@@ -129,7 +129,3 @@ Finally, the region of interest is analyzed. This involves counting the number o
 ![Fig. 3.4: Analysis of region of interest](images/region_of_interest_analysis.png)
 ![Fig. 3.5: Region of interest with multiple motorcycles](images/multiple_motorcycles.png)
 
----
-
-This report summarizes the techniques and results obtained from processing the traffic video for lane detection, vehicle tracking, and vehicle counting. The challenges encountered and solutions implemented highlight the complexity and practical considerations necessary for effective video analysis in real-world conditions.
-```
