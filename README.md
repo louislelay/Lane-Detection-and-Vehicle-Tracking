@@ -116,9 +116,7 @@ We call the `zone` function four times, which is a function we coded. It starts 
 
 ### b. Image Rotation and Extraction of Rotated Regions
 
-The
-
- `zone` function then rotates the image, ensuring the region of interest is straight. It then extracts this region for easier analysis. Rotating the image allows for better alignment of regions of interest with vehicle trajectories.
+The `zone` function then rotates the image, ensuring the region of interest is straight. It then extracts this region for easier analysis. Rotating the image allows for better alignment of regions of interest with vehicle trajectories.
 
 ![Fig. 3.3: Rotated image with region of interest extracted](images/rotated_image.png)
 
